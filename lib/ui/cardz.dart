@@ -1,11 +1,14 @@
 import 'package:card_app/ui/iconic.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:flutter/widgets.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class Cardz extends StatelessWidget {
+
   @override
   Widget build(BuildContext context) {
+    SystemChrome.setEnabledSystemUIOverlays([]);
     return Scaffold(body: _getCard(context));
   }
 }
