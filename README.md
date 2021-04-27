@@ -21,4 +21,4 @@ I wanted to make a contact card app and using the app in my pocket, I’ll be ab
 
 ## Screenshot
 
-![ContactCard](https://saquibansari0101.github.io/ContactCard/main/screens/finished.png)
+![ContactCard](https://saquibansari0101.github.io/ContactCard/screens/finished.png)
