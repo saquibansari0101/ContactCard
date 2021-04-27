@@ -4,12 +4,6 @@
 
 I wanted to make a contact card app and using the app in my pocket, I’ll be able share anyone my contact info.
 
-## Screenshot
-
-<img src="screens/finished.png"
-  alt="Home Screen"
-  style="float: left; margin-right: 10px;"
-  width="200"/>
 
 ## What I have learned
 
@@ -23,3 +17,11 @@ I wanted to make a contact card app and using the app in my pocket, I’ll be ab
 - How to style Text widgets
 - How to open url in browser by on tap on text
 - How to read and use Flutter Documentation
+
+
+## Screenshot
+
+<img src="screens/finished.png"
+  alt="Home Screen"
+  style="float: left; margin-right: 10px;"
+  width="200"/>
