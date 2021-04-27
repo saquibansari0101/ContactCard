@@ -21,7 +21,4 @@ I wanted to make a contact card app and using the app in my pocket, I’ll be ab
 
 ## Screenshot
 
-<img src="screens/finished.png"
-  alt="Home Screen"
-  style="float: left; margin-right: 10px;"
-  width="200"/>
+![My-Card](https://saquibansari0101.github.io/My-Card/screens/finished.png)
